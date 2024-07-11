@@ -15,3 +15,10 @@
 ## 7. Add + Commit
 - git add .
 - git commit -m "msg"
+## 8. Create the non existing remote baranch and push it
+- git branch -M master
+- git remote add origin https://github.com/Pyran-Ranjith/Test-Branch.git
+- git push -u origin master
+
+- git branch -a
+
